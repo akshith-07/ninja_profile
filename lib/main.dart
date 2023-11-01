@@ -4,7 +4,7 @@ void main() {
   runApp(MaterialApp(
     home: NinjaCard(),
   ));
-}
+} 
 
 class NinjaCard extends StatefulWidget {
   const NinjaCard({super.key});
